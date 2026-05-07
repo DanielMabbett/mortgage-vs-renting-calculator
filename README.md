@@ -7,4 +7,4 @@ A very rough estimation for how much wealth you have with property vs renting + 
 
 ## Important 
 
-This page / repo / code is not financial advise. Use at your own risk. 
+This page / repo / code is not financial advice. Use at your own risk. 
